@@ -14,7 +14,7 @@ VOLL BACKUP
 sichert auch Dateinamen, Pfade, User..und restored dies auch 
 
 SystemDB 
-Einträge in SystemDBs werden bei fast allen HADR Lösungen nicht mitgesynt
+Einträge in SystemDBs werden bei fast allen HADR Lösungen nicht mitgesynct
 
 
 Servicekonten
